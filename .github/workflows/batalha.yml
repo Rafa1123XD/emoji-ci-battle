@@ -19,4 +19,4 @@ jobs:
 
     - name: Iniciar Batalha de Emojis
       run: |
-        pytest
+        pytest -s
